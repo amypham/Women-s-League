@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+@import url(https://fonts.googleapis.com/css?family=Lora);
+
+/*Index page and Layout for Other Pages*/
+
+h1 {
+	font-family: 'Lora', serif;	
+	font-size: 80px;
+	color: darksalmon;
+	position: fixed;
+	top: -30px;
+}
+
+nav {
+	position: fixed;
+	background-color: indianred;
+	width: 40%;
+	opacity: .5;
+	top: 130px;
+}
+
+ul {
+	padding: 8px;
+	text-align: center;
+	margin-right: 3%;
+	display: block;
+}
+
+#nav {
+	font-family: 'Playfair Display', serif;
+	border: 1px solid white;
+	padding: 8px;
+	margin-right: 3px;
+	margin-left: 3px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 30px;
+	color: thistle;
+}
+
+
+.extra {
+	width: 52%;
+	margin: 0 auto;
+	margin-top: 255px;
+	margin-bottom: 38px;
+	background-color: thistle;
+	opacity: .6;
+	color: indianred;
+	padding: 10px;
+	font-size: 25px;
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Lora', serif;	
+	font-size: 37px;
+	color: darksalmon;
+}
+
+#news {
+	width: 65%;
+	margin: 0 auto;
+	text-align: center;
+	background-color: transparent;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border: 3px solid lightcoral;
+}
+
+.update {
+	background-color: lightsteelblue;
+	font-family: 'Playfair Display', serif;
+	font-size: 24px;
+	color: indianred;
+	width: 66%;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 8px;
+}
+
+#media {
+	margin-top: 20px;
+	color: lightcoral;
+	margin-right: 100px;
+	text-decoration: none;
+	font-family: 'Playfair Display', serif;
+	font-size: 20px;
+}
+
+#winter {
+	width: 60%;
+}
+
+/*Contact Page*/
+
+.position {
+	margin-top: 220px;
+	border-radius: 100%;
+	width: 70%;
+}
+
+
+figcaption {
+	font-family: 'Merriweather', serif;
+	font-size: 20px;
+	color: darksalmon;
+}
+
+/*Info Page*/
+
